@@ -55,12 +55,3 @@ arduino
 Copy
 Edit
 http://localhost/sports-management/
-Future Improvements (Optional)
-Payment integration for club fees
-
-Email notifications for training sessions
-
-Mobile responsiveness enhancements
-
-Role-based access restrictions and log history
-
